@@ -32,4 +32,7 @@ whilst your in this directory copy the keyboard.xml file in this repository and 
 
 reboot your raspberry pi and it should work ok.
 
+USAGE:
+------
+
 Touch the search box to bring up the keyboard enter your search details and volumio will automatically search then touch outside of keyboard to view your searched music.
